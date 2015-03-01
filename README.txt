@@ -23,14 +23,18 @@ n33.co @n33co dribbble.com/n33
 
 Credits:
 
-	Demo Images:
+	Demo Images (NOT USED):
 		Michael Domaradzki (md.photomerchant.net)
 			"Night Vision"
 			"At the Station II"
 			"Airchitecture II"
 			"Livewires II"
 			"Midnite Xpress I"
-
+	
+	Other Images:
+		OCAD .gif from brucemaudesign.com (will remove at request of owner - please contact if necessary)
+		Lead Header image from https://www.thinkwithgoogle.com/articles/data-to-insights-blueprint-for-your-business.html (will remove at request of owner - please contact if necessary)
+	
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
